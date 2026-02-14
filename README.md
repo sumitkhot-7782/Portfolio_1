@@ -12,7 +12,5 @@ This portfolio showcases my projects, skills, and achievements as a Full Stack D
 - MERN Stack
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
 
----
 ⭐ If you like this project, give it a star!
