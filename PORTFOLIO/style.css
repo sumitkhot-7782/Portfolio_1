@@ -400,3 +400,17 @@ copy */
   transform: translateX(5px);
   transition: all 0.3s ease;
 }
+
+@media screen and (max-width:1200px){
+    .main-container{
+        grid-template-column:1fr;
+        padding:20px;
+    }
+
+    .sidebar{
+        position:static;
+        height:auto; 
+    }
+}
+
+
